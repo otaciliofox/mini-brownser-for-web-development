@@ -1,0 +1,10 @@
+{
+  "name": "mini-brownser-for-web-development",
+  "version": "1.0.0",
+  "description": "Small browser that can be used for web development when you don't have a second monitor.",
+  "main": "index.js",
+  "repository": "git@github.com:otaciliofox/mini-brownser-for-web-development.git",
+  "author": "Otacilio Fox <otaciliomanoel.neto@gmail.commit>",
+  "license": "MIT",
+  "private": false
+}
