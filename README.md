@@ -49,7 +49,7 @@ Step 2 - Download the npm packages used in the project with the command: `npm` ,
 
 Step 3 - Start the application with the command: `npm run start`, if you prefer yarn run `yarn start`;
 
-- the mini webview is on top of other system windows, such as the own visual studio code, which allows you to see how the web project is doing while still editing via live-server, as the webview shows the url localhost: 3000.
+- The mini webview is on top of other system windows, such as the own visual studio code, which allows you to see how the web project is doing while still editing via live-server, as the webview shows the url localhost: 3000.
 
 <br />
 <br />
