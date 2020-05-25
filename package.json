@@ -1,13 +1,13 @@
 {
-  "name": "mini-brownser-for-web-development",
+  "name": "mini-webview-for-web-development",
   "version": "1.0.0",
-  "description": "Small browser that can be used for web development when you don't have a second monitor.",
+  "description": "Small webview that can be used for web development when you don't have a second monitor.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error no test specified\" && exit 1"
   },
-  "repository": "git@github.com:otaciliofox/mini-brownser-for-web-development.git",
+  "repository": "git@github.com:otaciliofox/mini-webview-for-web-development.git",
   "author": "Otacilio Fox <otaciliomanoel.neto@gmail.commit>",
   "license": "MIT",
   "private": false,
