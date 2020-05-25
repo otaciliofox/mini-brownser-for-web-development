@@ -9,7 +9,7 @@
 <p align="center">Small webview that can be used for web development when you don't have a second monitor.</p>
 
 <p align="center">
-  <a href="#rocket-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">how to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-## :rocket: Tecnologies
+## :rocket: Technologies
 [//]: # (Add the features of your project here:)
 
 <br />
