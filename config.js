@@ -1,5 +1,5 @@
 module.exports = {
-  width: "600",
-  height: "400",
-  url: "http://localhost:3000/"
-}
+  width: "400",
+  height: "300",
+  url: "http://localhost:3000/",
+};
